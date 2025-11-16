@@ -143,6 +143,7 @@ Joining Fact Table Transactions (Fct_Transactions) to get the amount:
 <img width="731" height="95" alt="image" src="https://github.com/user-attachments/assets/9cec308a-d688-4701-a5c4-edc7a05f4164" />
 
 As we need the already transacted so status would be in accepted Grouping by country and typology, ordering by amount descending:
+
 <img width="673" height="184" alt="image" src="https://github.com/user-attachments/assets/2a5e3759-93bc-43d9-ae5b-a09749275b0d" />
 
 **Output:**
